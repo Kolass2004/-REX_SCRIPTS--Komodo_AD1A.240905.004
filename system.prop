@@ -1,0 +1,229 @@
+##
+# Beautiful Pixel Props https://t.me/PixelProps
+# By @T3SL4
+##
+
+###
+#-#
+###
+
+###
+# begin product/etc/build.prop
+###
+
+# begin common build properties
+ro.product.brand=google
+ro.product.device=komodo
+ro.product.manufacturer=Google
+ro.product.model=Pixel 9 Pro XL
+ro.product.name=komodo
+ro.product.product.brand=google
+ro.product.product.device=komodo
+ro.product.product.manufacturer=Google
+ro.product.product.model=Pixel 9 Pro XL
+ro.product.product.name=komodo
+ro.product.name_for_attestation=komodo
+ro.product.build.date=Wed Aug  7 14:53:17 UTC 2024
+ro.product.build.date.utc=1723042397
+ro.product.build.fingerprint=google/komodo/komodo:14/AD1A.240905.004/12196292:user/release-keys
+ro.product.build.id=AD1A.240905.004
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=12196292
+ro.product.build.version.release=14
+ro.product.build.version.release_or_codename=14
+ro.product.build.version.sdk=34
+# end common build properties
+
+# begin PRODUCT_PRODUCT_PROPERTIES
+ro.support_one_handed_mode=true
+ro.opa.eligible_device=true
+ro.com.google.ime.theme_id=5
+ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms
+# end PRODUCT_PRODUCT_PROPERTIES
+
+# begin PRODUCT_BOOTIMAGE_PROPERTIES
+ro.product.bootimage.brand=google
+ro.product.bootimage.device=komodo
+ro.product.bootimage.manufacturer=Google
+ro.product.bootimage.model=Pixel 9 Pro XL
+ro.product.bootimage.name=komodo
+ro.bootimage.build.date=Wed Aug  7 14:53:17 UTC 2024
+ro.bootimage.build.date.utc=1723042397
+ro.bootimage.build.fingerprint=google/komodo/komodo:14/AD1A.240905.004/12196292:user/release-keys
+ro.bootimage.build.id=AD1A.240905.004
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=12196292
+ro.bootimage.build.version.release=14
+ro.bootimage.build.version.release_or_codename=14
+ro.bootimage.build.version.sdk=34
+# end PRODUCT_BOOTIMAGE_PROPERTIES
+
+###
+# end product/etc/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin vendor/build.prop
+###
+
+# begin common build properties
+ro.product.vendor.brand=google
+ro.product.vendor.device=komodo
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 9 Pro XL
+ro.product.vendor.name=komodo
+ro.vendor.build.date=Wed Aug  7 14:53:17 UTC 2024
+ro.vendor.build.date.utc=1723042397
+ro.vendor.build.fingerprint=google/komodo/komodo:14/AD1A.240905.004/12196292:user/release-keys
+ro.vendor.build.id=AD1A.240905.004
+ro.vendor.build.tags=release-keys
+ro.vendor.build.type=user
+ro.vendor.build.version.incremental=12196292
+ro.vendor.build.version.release=14
+ro.vendor.build.version.release_or_codename=14
+ro.vendor.build.version.sdk=34
+# end common build properties
+
+# begin PRODUCT_VENDOR_PROPERTIES
+ro.soc.model=Tensor G4
+ro.soc.manufacturer=Google
+# end PRODUCT_VENDOR_PROPERTIES
+
+# begin ADDITIONAL_VENDOR_PROPERTIES
+ro.product.first_api_level=34
+ro.vendor.build.security_patch=2024-09-05
+# end ADDITIONAL_VENDOR_PROPERTIES
+
+# begin PRODUCT_PROPERTY_OVERRIDES
+debug.sf.enable_sdr_dimming=1
+debug.sf.dim_in_gamma_in_enhanced_screenshots=1
+persist.vendor.enable.thermal.genl=true
+suspend.short_suspend_threshold_millis=2000
+suspend.max_sleep_time_millis=40000
+suspend.short_suspend_backoff_enabled=true
+ro.incremental.enable=true
+# end PRODUCT_PROPERTY_OVERRIDES
+
+###
+# end vendor/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin vendor/odm/etc/build.prop
+###
+
+# begin common build properties
+ro.product.odm.brand=google
+ro.product.odm.device=komodo
+ro.product.odm.manufacturer=Google
+ro.product.odm.model=Pixel 9 Pro XL
+ro.product.odm.name=komodo
+ro.odm.build.date=Wed Aug  7 14:53:17 UTC 2024
+ro.odm.build.date.utc=1723042397
+ro.odm.build.fingerprint=google/komodo/komodo:14/AD1A.240905.004/12196292:user/release-keys
+ro.odm.build.id=AD1A.240905.004
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=12196292
+ro.odm.build.version.release=14
+ro.odm.build.version.release_or_codename=14
+ro.odm.build.version.sdk=34
+# end common build properties
+
+###
+# end vendor/odm/etc/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin system/system/build.prop
+###
+
+# begin common build properties
+ro.product.system.brand=google
+ro.product.system.device=generic
+ro.product.system.manufacturer=Google
+ro.product.system.model=mainline
+ro.product.system.name=mainline
+ro.system.build.date=Wed Aug  7 14:53:17 UTC 2024
+ro.system.build.date.utc=1723042397
+ro.system.build.fingerprint=google/komodo/komodo:14/AD1A.240905.004/12196292:user/release-keys
+ro.system.build.id=AD1A.240905.004
+ro.system.build.tags=release-keys
+ro.system.build.type=user
+ro.system.build.version.incremental=12196292
+ro.system.build.version.release=14
+ro.system.build.version.release_or_codename=14
+ro.system.build.version.sdk=34
+# end common build properties
+
+# begin build properties
+ro.build.date=Wed Aug  7 14:53:17 UTC 2024
+ro.build.date.utc=1723042397
+ro.build.fingerprint=google/komodo/komodo:14/AD1A.240905.004/12196292:user/release-keys
+ro.build.id=AD1A.240905.004
+ro.build.display.id=AD1A.240905.004
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=r-8891092928c26a74-wd40
+ro.build.tags=release-keys
+ro.build.flavor=komodo-user
+ro.build.product=komodo
+ro.build.description=komodo-user 14 AD1A.240905.004 12196292 release-keys
+ro.build.version.incremental=12196292
+ro.build.version.sdk=34
+ro.build.version.release=14
+ro.build.version.release_or_codename=14
+ro.build.version.security_patch=2024-09-05
+# end build properties
+
+# begin PRODUCT_SYSTEM_PROPERTIES
+ro.hotword.detection_service_required=true
+#end PRODUCT_SYSTEM_PROPERTIES
+
+###
+# end system/system/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin system_ext/etc/build.prop
+###
+
+# begin common build properties
+ro.product.system_ext.brand=google
+ro.product.system_ext.device=komodo
+ro.product.system_ext.manufacturer=Google
+ro.product.system_ext.model=Pixel 9 Pro XL
+ro.product.system_ext.name=komodo
+ro.system_ext.build.date=Wed Aug  7 14:53:17 UTC 2024
+ro.system_ext.build.date.utc=1723042397
+ro.system_ext.build.fingerprint=google/komodo/komodo:14/AD1A.240905.004/12196292:user/release-keys
+ro.system_ext.build.id=AD1A.240905.004
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=12196292
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=14
+ro.system_ext.build.version.sdk=34
+# end common build properties
+
+###
+# end system_ext/etc/build.prop
+###
